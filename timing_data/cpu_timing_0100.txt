@@ -1,0 +1,171 @@
+Run LW test for ncol = 0100...
+ Execution times - total(s)      :   0.1069459    
+                 - per column(ms):    1.069459    
+ Execution times - total(s)      :   0.1274340    
+                 - per column(ms):    1.274340    
+ Execution times - total(s)      :   0.1248300    
+                 - per column(ms):    1.248300    
+ Execution times - total(s)      :   0.1265730    
+                 - per column(ms):    1.265730    
+ Execution times - total(s)      :   0.1290531    
+                 - per column(ms):    1.290531    
+ Execution times - total(s)      :   0.1248219    
+                 - per column(ms):    1.248219    
+ Execution times - total(s)      :   0.1272740    
+                 - per column(ms):    1.272740    
+ Execution times - total(s)      :   0.1302590    
+                 - per column(ms):    1.302590    
+ Execution times - total(s)      :   0.1301298    
+                 - per column(ms):    1.301298    
+ Execution times - total(s)      :   0.1282200    
+                 - per column(ms):    1.282200    
+ Execution times - total(s)      :   0.1236650    
+                 - per column(ms):    1.236650    
+ Execution times - total(s)      :   0.1284999    
+                 - per column(ms):    1.284999    
+ Execution times - total(s)      :   0.1256668    
+                 - per column(ms):    1.256668    
+ Execution times - total(s)      :   0.1247119    
+                 - per column(ms):    1.247119    
+ Execution times - total(s)      :   0.1291770    
+                 - per column(ms):    1.291770    
+ Execution times - total(s)      :   0.1267828    
+                 - per column(ms):    1.267828    
+ Execution times - total(s)      :   0.1279001    
+                 - per column(ms):    1.279001    
+ Execution times - total(s)      :   0.1285529    
+                 - per column(ms):    1.285529    
+ Execution times - total(s)      :   0.1294620    
+                 - per column(ms):    1.294620    
+ Execution times - total(s)      :   0.1291749    
+                 - per column(ms):    1.291749    
+ Execution times - total(s)      :   0.1250901    
+                 - per column(ms):    1.250901    
+ Execution times - total(s)      :   0.1291551    
+                 - per column(ms):    1.291551    
+ Execution times - total(s)      :   0.1249971    
+                 - per column(ms):    1.249971    
+ Execution times - total(s)      :   0.1276280    
+                 - per column(ms):    1.276280    
+ Execution times - total(s)      :   0.1287550    
+                 - per column(ms):    1.287550    
+ Execution times - total(s)      :   0.1283459    
+                 - per column(ms):    1.283459    
+ Execution times - total(s)      :   0.1298458    
+                 - per column(ms):    1.298458    
+ Execution times - total(s)      :   0.1276409    
+                 - per column(ms):    1.276409    
+ Execution times - total(s)      :   0.1248090    
+                 - per column(ms):    1.248090    
+ Execution times - total(s)      :   0.1285779    
+                 - per column(ms):    1.285779    
+ Execution times - total(s)      :   0.1248850    
+                 - per column(ms):    1.248850    
+ Execution times - total(s)      :   0.1277811    
+                 - per column(ms):    1.277811    
+ Execution times - total(s)      :   0.1289930    
+                 - per column(ms):    1.289930    
+ Execution times - total(s)      :   0.1290838    
+                 - per column(ms):    1.290838    
+ Execution times - total(s)      :   0.1280181    
+                 - per column(ms):    1.280181    
+ Execution times - total(s)      :   0.1287419    
+                 - per column(ms):    1.287419    
+ Execution times - total(s)      :   0.1243720    
+                 - per column(ms):    1.243720    
+ Execution times - total(s)      :   0.1285750    
+                 - per column(ms):    1.285750    
+ Execution times - total(s)      :   0.1271848    
+                 - per column(ms):    1.271848    
+ Execution times - total(s)      :   0.1286349    
+                 - per column(ms):    1.286349    
+ Execution times - total(s)      :   0.1058211    
+                 - per column(ms):    1.058211    
+ Execution times - total(s)      :   0.1281211    
+                 - per column(ms):    1.281211    
+Run SW test for ncol = 0100...
+ Execution times - total(s)      :   0.1304619    
+                 - per column(ms):    1.304619    
+ Execution times - total(s)      :   0.1321420    
+                 - per column(ms):    1.321420    
+ Execution times - total(s)      :   0.1323471    
+                 - per column(ms):    1.323471    
+ Execution times - total(s)      :   0.1316239    
+                 - per column(ms):    1.316239    
+ Execution times - total(s)      :   0.1331532    
+                 - per column(ms):    1.331532    
+ Execution times - total(s)      :   0.1285212    
+                 - per column(ms):    1.285212    
+ Execution times - total(s)      :   0.1253237    
+                 - per column(ms):    1.253237    
+ Execution times - total(s)      :   0.1283211    
+                 - per column(ms):    1.283211    
+ Execution times - total(s)      :   0.1210880    
+                 - per column(ms):    1.210880    
+ Execution times - total(s)      :   0.1343829    
+                 - per column(ms):    1.343829    
+ Execution times - total(s)      :   0.1331291    
+                 - per column(ms):    1.331291    
+ Execution times - total(s)      :   0.1338500    
+                 - per column(ms):    1.338500    
+ Execution times - total(s)      :   0.1360590    
+                 - per column(ms):    1.360590    
+ Execution times - total(s)      :   0.1342549    
+                 - per column(ms):    1.342549    
+ Execution times - total(s)      :   0.1370720    
+                 - per column(ms):    1.370720    
+ Execution times - total(s)      :   0.1356811    
+                 - per column(ms):    1.356811    
+ Execution times - total(s)      :   0.1365449    
+                 - per column(ms):    1.365449    
+ Execution times - total(s)      :   0.1373970    
+                 - per column(ms):    1.373970    
+ Execution times - total(s)      :   0.1369049    
+                 - per column(ms):    1.369049    
+ Execution times - total(s)      :   0.1376209    
+                 - per column(ms):    1.376209    
+ Execution times - total(s)      :   0.1369919    
+                 - per column(ms):    1.369919    
+ Execution times - total(s)      :   0.1371309    
+                 - per column(ms):    1.371309    
+ Execution times - total(s)      :   0.1366481    
+                 - per column(ms):    1.366481    
+ Execution times - total(s)      :   0.1404130    
+                 - per column(ms):    1.404130    
+ Execution times - total(s)      :   0.1403858    
+                 - per column(ms):    1.403858    
+ Execution times - total(s)      :   0.1371259    
+                 - per column(ms):    1.371259    
+ Execution times - total(s)      :   0.1395931    
+                 - per column(ms):    1.395931    
+ Execution times - total(s)      :   0.1372911    
+                 - per column(ms):    1.372911    
+ Execution times - total(s)      :   0.1397459    
+                 - per column(ms):    1.397459    
+ Execution times - total(s)      :   0.1403541    
+                 - per column(ms):    1.403541    
+ Execution times - total(s)      :   0.1397960    
+                 - per column(ms):    1.397960    
+ Execution times - total(s)      :   0.1398568    
+                 - per column(ms):    1.398568    
+ Execution times - total(s)      :   0.1382589    
+                 - per column(ms):    1.382589    
+ Execution times - total(s)      :   0.1408741    
+                 - per column(ms):    1.408741    
+ Execution times - total(s)      :   0.1405000    
+                 - per column(ms):    1.405000    
+ Execution times - total(s)      :   0.1406311    
+                 - per column(ms):    1.406311    
+ Execution times - total(s)      :   0.1408200    
+                 - per column(ms):    1.408200    
+ Execution times - total(s)      :   0.1393280    
+                 - per column(ms):    1.393280    
+ Execution times - total(s)      :   0.1325621    
+                 - per column(ms):    1.325621    
+ Execution times - total(s)      :   0.1401739    
+                 - per column(ms):    1.401739    
+ Execution times - total(s)      :   0.1114690    
+                 - per column(ms):    1.114690    
+ Execution times - total(s)      :   0.1120100    
+                 - per column(ms):    1.120100    
+Done running in /gpfs/alpine/scratch/brhillman/cli115/rrtmgp-allsky

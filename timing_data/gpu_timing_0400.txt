@@ -1,0 +1,11 @@
+Run LW test for ncol = 2800...
+ Execution times - total(s)      :   0.1133170    
+                 - min(s)        :   0.1133160    
+                 - avg(s)        :   0.1133160000000000     
+                 - per column(ms):   4.0469999999999999E-002
+Run SW test for ncol = 2800...
+ Execution times - total(s)      :   8.9044802E-02
+                 - min(s)        :   8.9044802E-02
+                 - avg(s)        :   8.9044799999999993E-002
+                 - per column(ms):   3.1801714285714287E-002
+Done running in /gpfs/alpine/scratch/brhillman/cli115/rrtmgp-allsky
